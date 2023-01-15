@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ssd_pytorch"
+  site-url: "https://thatgeeman.github.io/ssd_pytorch"
+  description: "SSD implementation using PyTorch"
+  repo-branch: main
+  repo-url: "https://github.com/thatgeeman/ssd_pytorch"
